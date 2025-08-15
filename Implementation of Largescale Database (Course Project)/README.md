@@ -1,0 +1,3 @@
+In this project we are creating a database for a National Pharmacy Company. This Company buys drugs from manufacturers and sells them in their stores. 
+
+For such a company which operates on a national scale we require to store so much information about various things. We need to store the information about their stores, warehouses, the employees that work there, the patients that visit the stores, the various drugs that are stored at warehouses and sold at the stores. All this information is crucial to the working of the Company. This data can be used to gain information about the sales of a particular drug, keep an eye on the inventory, manage the employees etc.  
